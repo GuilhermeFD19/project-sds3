@@ -9,6 +9,7 @@ const NavBar = () => {
                 </nav>
             </div>
         </div>
+
     );
 }
 
